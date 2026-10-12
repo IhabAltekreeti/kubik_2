@@ -1,0 +1,6 @@
+{
+  "name": "Kübik+ Öğrenme Platformu",
+  "description": "LGS, YKS ve ara sınıf öğrencileri için yapay zekâ destekli yeni nesil öğrenme ve soru atölyesi platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
